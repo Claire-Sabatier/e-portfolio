@@ -33,7 +33,11 @@ body{
 }
 #titre{
   height: 60px;
-  font-size: 150%;
+  font-size: 125%;
+}
+
+#txt{
+  font-size: 90%;
 }
 
 hr{
@@ -141,6 +145,7 @@ h2 {
 .parallax-container {
   height: 250px;
 }
+
 
 
 
