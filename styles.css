@@ -9,6 +9,14 @@ body{
   /*background: linear-gradient(#EEDECF, #D6B5AB);*/
   background-color: #EEDECF;
 }
+.btnCv{
+  margin-left: 30px;
+  z-index: -2;
+  position: fixed;
+  margin-top: -450px;
+}
+
+
 .header-bg {
   position: absolute;
   top: 0;
@@ -21,7 +29,7 @@ body{
   background-position: center;
   background-image: url(https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif);
   height: 700px;
-  opacity: 0.75;
+  opacity: 1;
 }
 
 
