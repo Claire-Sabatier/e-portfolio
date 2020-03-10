@@ -9,12 +9,6 @@ body{
   /*background: linear-gradient(#EEDECF, #D6B5AB);*/
   background-color: #EEDECF;
 }
-.btnCv{
-  margin-left: 30px;
-  z-index: -2;
-  position: fixed;
-  margin-top: -450px;
-}
 
 
 .header-bg {
@@ -150,9 +144,7 @@ h2 {
 
 
 
-.parallax-container {
-  height: 250px;
-}
+
 
 
 
